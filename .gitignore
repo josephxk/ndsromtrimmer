@@ -1,0 +1,7 @@
+bpl
+dcp
+output/*.nds
+**/trimmed
+unit
+**/*.~*
+.DS_Store
